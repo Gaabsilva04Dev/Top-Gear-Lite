@@ -1,0 +1,142 @@
+﻿[
+    {
+        "carro":  "Porsche 911 - Geração 992",
+        "ano":  2018,
+        "descrição":  "A geração 992 não só manteve a icônica silhueta, mas elevou o padrão de usabilidade diária e desempenho, integrando tecnologias digitais avançadas. Ele continua sendo o padrão-ouro do carro esportivo, equilibrando performance de pista com o conforto de um Grand Tourer. Seus lançamentos subsequentes (GT3, Turbo S) são exemplos do ápice da engenharia alemã.",
+        "link_reportagem":  "https://www.topgear.com/car-news/la-motor-show-2018/all-new-porsche-911",
+        "imagem":  "https://www.topgear.com/sites/default/files/images/inline-galleries/2018/11/321bff8068ac4bba2dcfa7ff4f190df2/p18_0847_a5_rgb.jpg?w=1784\u0026h=1004"
+    },
+    {
+        "carro":  "Chevrolet Corvette Stingray C8",
+        "ano":  2020,
+        "descrição":  "A oitava geração do Corvette marcou uma revolução ao adotar um motor central, melhorando drasticamente a dinâmica de condução. Com um design agressivo e tecnologia de ponta, o C8 oferece desempenho excepcional a um preço relativamente acessível, tornando-o um supercarro para as massas.",
+        "link_reportagem":  "https://www.topgear.com/car-news/supercars/new-mid-engined-chevrolet-corvette-stingray",
+        "imagem":  "https://www.topgear.com/sites/default/files/images/news-article/carousel/2019/07/ae6cdd64f4a91903513049d9ac21fa44/new_corvette_trd_9361_topon_midres.jpg?w=1784\u0026h=1004"
+    },
+    {
+        "carro":  "McLaren 720S",
+        "ano":  2017,
+        "descrição":  "O 720S representou um salto na definição de supercarro moderno da McLaren: chassi monocasco ultraleve, aerodinâmica ativa e um V8 biturbo com resposta e potência excepcionais. Foi saudado por sua combinação de desempenho extremo e dirigibilidade surpreendentemente refinada.",
+        "link_reportagem":  "https://www.topgear.com/car-reviews/mclaren/720s",
+        "imagem":  "https://www.topgear.com/sites/default/files/cars-car/carousel/2017/05/mclaren-720s-thedrive-383.jpg?w=1784\u0026h=1004"
+    },
+    {
+        "carro":  "Lamborghini Huracán Performante",
+        "ano":  2017,
+        "descrição":  "A versão Performante elevou o Huracán com redução de peso, aerodinâmica ativa (ALA) e afinações de motor e suspensão que resultaram em tempos de volta notáveis. Tornou-se um ícone instantâneo por traduzir tecnologias de pista em rendimento para a estrada.",
+        "link_reportagem":  "https://www.topgear.com/car-reviews/lamborghini/huracan",
+        "imagem":  "https://www.topgear.com/sites/default/files/cars-car/carousel/2015/02/buyers_guide_-_lamborghini_huracan_2014_-_front_quarter.jpg?w=1784\u0026h=1004"
+    },
+    {
+        "carro":  "Porsche Taycan",
+        "ano":  2019,
+        "descrição":  "Primeiro elétrico de alta performance da Porsche, o Taycan combinou comportamento dinâmico típico da marca com carregamento rápido e tecnologia de baterias avançada. Representou a entrada séria da Porsche no segmento EV de alto desempenho.",
+        "link_reportagem":  "https://www.topgear.com/car-reviews/porsche/taycan",
+        "imagem":  "https://www.topgear.com/sites/default/files/2024/06/1-Porsche-Taycan-2024-UK-review.jpg?w=1784\u0026h=1004"
+    },
+    {
+        "carro":  "Ferrari F8 Tributo",
+        "ano":  2019,
+        "descrição":  "Substituto do 488 GTB, o F8 Tributo trouxe um V8 mais afinado, redução de peso e atualizações aerodinâmicas que resultaram em resposta e desempenho aprimorados. É um exemplo claro do refinamento contínuo dos berlinettas da Ferrari.",
+        "link_reportagem":  "https://www.topgear.com/car-reviews/ferrari/f8-tributo",
+        "imagem":  "https://www.topgear.com/sites/default/files/cars-car/carousel/2019/09/tg_-_ferrari_f8_tributo_-091.jpg?w=1784\u0026h=1004"
+    },
+    {
+        "carro":  "Ford GT (Geração 2016)",
+        "ano":  2016,
+        "descrição":  "O Ford GT moderno reinterpreta o ícone dos anos 1960 com carbono extensivo, aerodinâmica ativa e um V6 EcoBoost de alto desempenho. Embora produzido em volumes limitados, mostrou o potencial da tecnologia de competição aplicada a um carro de estrada.",
+        "link_reportagem":  "https://www.topgear.com/car-reviews/ford/gt",
+        "imagem":  "https://www.topgear.com/sites/default/files/cars-car/carousel/2017/05/row_0410_copy.jpg?w=1784\u0026h=1004"
+    },
+    {
+        "carro":  "Mercedes-AMG GT R",
+        "ano":  2017,
+        "descrição":  "O GT R levou a família AMG GT para a pista com afinações agressivas de chassis, refrigeração e turbo, resultando em apetite por curvas e tempos de pista competitivos. Foi visto como a face mais focada e agressiva da gama GT.",
+        "link_reportagem":  "https://www.topgear.com/car-reviews/mercedes-benz/amg-gt",
+        "imagem":  "https://www.topgear.com/sites/default/files/cars-car/inline-gallery/2024/07/24C0275_028.jpg?w=1784\u0026h=1004"
+    },
+    {
+        "carro":  "Audi R8 (Segunda geração)",
+        "ano":  2015,
+        "descrição":  "A segunda geração do R8 entrou com motor central V10 derivado da Lamborghini e um chassis ainda mais refinado, equilibrando luxo e performance. Permanecendo mais acessível que muitos supercarros, manteve grande apelo entre entusiastas.",
+        "link_reportagem":  "https://www.topgear.com/car-reviews/audi/r8",
+        "imagem":  "https://www.topgear.com/sites/default/files/2024/06/1%20Audi%20R8%20GT%20review.jpg?w=1784\u0026h=1004"
+    },
+    {
+        "carro":  "Aston Martin DB11",
+        "ano":  2016,
+        "descrição":  "O DB11 marcou o novo capítulo de design e engenharia da Aston Martin com plataformas atualizadas, motores V8/V12 modernos e interior mais luxuoso. É reconhecido como um grand tourer elegante com desempenho convincente.",
+        "link_reportagem":  "https://www.topgear.com/car-reviews/aston-martin/db11",
+        "imagem":  "https://www.topgear.com/sites/default/files/cars-car/carousel/2019/07/aston_martin_db11_amr_china_grey_23945.jpg?w=1784\u0026h=1004"
+    },
+    {
+        "carro":  "Ferrari SF90 Stradale",
+        "ano":  2019,
+        "descrição":  "Híbrido plug-in que combina múltiplos motores elétricos com um V8 turbo, oferecendo aceleração estonteante e tecnologia derivada da F1. Marca uma nova era elétrica de Ferrari sem sacrificar o desempenho.",
+        "link_reportagem":  "https://www.topgear.com/car-news/supercars/meet-ferrari-sf90-stradale",
+        "imagem":  "https://www.topgear.com/sites/default/files/cars-car/carousel/2020/07/dsc09285.jpg?w=1784&h=1004"
+    },
+    {
+        "carro":  "Lamborghini Aventador SVJ",
+        "ano":  2018,
+        "descrição":  "Versão extrema do Aventador com foco máximo em aerodinâmica ativa, potência e dinâmica de pista. Representa o ápice da era dos V12 aspirados da Lamborghini.",
+        "link_reportagem":  "https://www.topgear.com/car-news/lamborghini/aventador-svj",
+        "imagem":  "https://www.topgear.com/sites/default/files/images/cars-road-test/carousel/2018/09/72664c809577bdce76b1a9093d3f8269/lamborghini_aventador_svj_yellow_road_27.jpg?w=1784&h=1004"
+    },
+    {
+        "carro":  "BMW M2 Competition",
+        "ano":  2018,
+        "descrição":  "Compacto, ágil e com motor de seis cilindros derivado dos modelos M maiores; o M2 Competition equilibra usabilidade diária com comportamento entusiasta e precisão no volante.",
+        "link_reportagem":  "https://www.topgear.com/car-news/bmw/m2-competition-review",
+        "imagem":  "https://www.topgear.com/sites/default/files/cars-car/carousel/2018/07/bmw_m2_comp_032.jpg?w=1784&h=1004"
+    },
+    {
+        "carro":  "Porsche 911 GT3 (992)",
+        "ano":  2021,
+        "descrição":  "Versão focada em pista do 911 com motor atmosférico de alta rotação, suspensão calibrada para performance e reduzida massa; um 911 purista voltado ao desempenho extremo.",
+        "link_reportagem":  "https://www.topgear.com/car-reviews/porsche/911-gt3",
+        "imagem":  "https://www.topgear.com/sites/default/files/2023/03/1-Porsche-911-GT3.jpg?w=1784&h=1004"
+    },
+    {
+        "carro":  "Nissan GT-R Nismo (R35)",
+        "ano":  2017,
+        "descrição":  "A iteração Nismo do GT-R traz afinações de motor, chassis e aerodinâmica que o transformam numa máquina de pista viável para uso em estrada, mantendo sua reputação de desempenho bruto e tecnologia avançada.",
+        "link_reportagem":  "https://www.topgear.com/car-news/nissan/gt-r-nismo",
+        "imagem":  "https://www.topgear.com/sites/default/files/cars-car/carousel/2019/07/my20_gt-r_nismo_germany_14.jpg?w=1784&h=1004"
+    },
+    {
+        "carro":  "Jaguar F-Type SVR",
+        "ano":  2016,
+        "descrição":  "Versão de topo do F-Type com foco em performance, incluindo tração integral, motor V8 superalimentado e afinações para pista, mantendo o caráter elegante e sonoro típico da Jaguar.",
+        "link_reportagem":  "https://www.topgear.com/car-reviews/jaguar/f-type",
+        "imagem":  "https://www.topgear.com/sites/default/files/cars-car/image/2020/02/new_jaguar_f-type_r_coupe_awd_sorrento_yellow-13.jpg?w=1280\u0026amp;h=720"
+    },
+    {
+        "carro":  "Chevrolet Camaro ZL1 1LE",
+        "ano":  2017,
+        "descrição":  "Versão de pista do Camaro ZL1 com pacotes aerodinâmicos, suspensão e pneus de alta aderência; transforma o muscle car em concorrente sério em acelerações e voltas rápidas.",
+        "link_reportagem":  "https://www.topgear.com/car-reviews/chevrolet/camaro-zl1",
+        "imagem":  "https://www.topgear.com/sites/default/files/cars-car/carousel/2016/07/2016-chevrolet-camaro-ss-049.jpg?w=1784&h=1004"
+    },
+    {
+        "carro":  "Dodge Challenger SRT Hellcat Redeye",
+        "ano":  2018,
+        "descrição":  "Máquina de alta potência com supercharged V8, o Redeye representa o ápice da filosofia muscle car bruto, entregando acelerações massivas e presença inconfundível.",
+        "link_reportagem":  "https://www.topgear.com/car-reviews/dodge/challenger",
+        "imagem":  "https://www.topgear.com/sites/default/files/cars-car/image/2019/01/dg019_004clan2kt8c8qmtrmpcl3p72agsepl.jpg?w=1280\u0026amp;h=720"
+    },
+    {
+        "carro":  "Toyota GR Supra (A90)",
+        "ano":  2019,
+        "descrição":  "Retorno do icônico nome Supra em parceria com a BMW: plataforma moderna, motor turbo eficiente e comportamento dinâmico que satisfaz entusiastas buscando agilidade e resposta do motor.",
+        "link_reportagem":  "https://www.topgear.com/car-reviews/toyota/supra",
+        "imagem":  "https://www.topgear.com/sites/default/files/cars-car/image/2022/06/1-Toyota-GR-Supra.jpg?w=1280\u0026amp;h=720"
+    },
+    {
+        "carro":  "Aston Martin Vantage (2018)",
+        "ano":  2018,
+        "descrição":  "Novo Vantage trouxe design mais agressivo, motor V8 potente e foco em comportamento dinâmico, posicionando-se como um GT esportivo mais focado na condução do que em luxo extremo.",
+        "link_reportagem":  "https://www.topgear.com/car-reviews/aston-martin/vantage",
+        "imagem":  "https://www.topgear.com/sites/default/files/cars-car/image/2015/02/buyers_guide_-_aston_martin_vantage_2014_-_front_quarter_0.jpg?w=1280\u0026amp;h=720"
+    }
+]
